@@ -53,7 +53,7 @@ Organization: [github.com/Modelio-R-D](https://github.com/Modelio-R-D) ("Modelio
 | [ARQAN-context-analyzer](https://github.com/Modelio-R-D/ARQAN-context-analyzer) | Context detection in GitHub repositories | Python | 6 Jun 2024 |
 | [ARQAN-dockerfile-scanner](https://github.com/Modelio-R-D/ARQAN-dockerfile-scanner) | Automating STIG checks with context detection | HTML | 1 Jun 2024 |
 | [COMER](https://github.com/Modelio-R-D/COMER) | Security testing, combinatorial and metamorphic; BSc thesis | TeX | 14 May 2024 |
-| [RQCODE](https://github.com/Modelio-R-D/RQCODE) | No description | Java | 10 Mar 2023 |
+| [RQCODE](https://github.com/Modelio-R-D/RQCODE) | Security requirement idioms represented as Java code  | Java | 10 Mar 2023 |
 | [FoodDatasetsQA](https://github.com/Modelio-R-D/FoodDatasetsQA) | Quality assessment of food datasets (MIT) | Jupyter | 8 Jun 2023 |
 
 ## 6. Modelio.org (main Modelio and extensions)
