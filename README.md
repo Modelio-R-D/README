@@ -40,7 +40,9 @@ Organization: [github.com/Modelio-R-D](https://github.com/Modelio-R-D) ("Modelio
 | [SafeTraffic_DSE_demo](https://github.com/Modelio-R-D/SafeTraffic_DSE_demo) | MYRTUS model repository for the SafeTraffic design-space exploration demo | 23 Apr 2026 |
 | [Smart-City-Traffic-Management](https://github.com/Modelio-R-D/Smart-City-Traffic-Management) | Example TOSCA Designer project on smart traffic | 12 May 2025 |
 | [Myrtus-Healthcare-Use-Case](https://github.com/Modelio-R-D/Myrtus-Healthcare-Use-Case) | Healthcare case for TOSCA and Attack-defense Tree Designers | 24 Jul 2025 |
-| [MyrtusFaceAppToscaDesigner](https://github.com/Modelio-R-D/MyrtusFaceAppToscaDesigner) | No description | 30 Jul 2025 |
+| [MyrtusFaceAppToscaDesigner](https://github.com/Modelio-R-D/MyrtusFaceAppToscaDesigner) | TOSCA Designer was tested with the Face Recognition application example, a basic face recognition application was modelled and deployed, showcasing the tool's ability to handle complex application deployments. The application involves a web application that analyses a webcam video stream and performs face recognition.
+<img width="3057" height="49" alt="image" src="https://github.com/user-attachments/assets/4dd5e0a7-490f-4612-b006-a53f329d8b7b" />
+ | 30 Jul 2025 |
 | [SOSFood](https://github.com/Modelio-R-D/SOSFood) | Reproducibility material (ICTSS 2026): email and phone detection tests for GDPR compliance in cloud food data lakes | 30 Oct 2026 |
 
 ## 5. Research and theses
