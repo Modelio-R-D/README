@@ -9,7 +9,7 @@ Organization: [github.com/Modelio-R-D](https://github.com/Modelio-R-D) ("Modelio
 - **Automation and AI (Python, Apache-2.0):** scripts, recipes and a MODELS 2026 paper artifact on LLM-assisted modeling.
 - **MYRTUS use cases (mostly HTML):** demo projects for smart traffic, healthcare and face-recognition apps.
 - **Research and theses:** NLP4RE, ARQAN, COMER, RQCODE, food datasets.
-- **Most recent activity:** TOSCA-continuum-governance (20 Nov 2026), SOSFood (30 Oct 2026), ToscaDesigner (20 Oct 2026).
+
 
 ## 2. Modelio modules
 
